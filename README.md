@@ -1,1 +1,1 @@
-# appimage-launcher-repack
+# AppImageLauncher-Repack
